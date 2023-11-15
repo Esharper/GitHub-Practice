@@ -7,3 +7,5 @@ It is important because you can go into the background and log your whole proces
 Local reopsitories will only make local changes. Remote repositories are done using a server so it can be done with class mates. 
 
 Elgin Sharper
+
+The resource that i learned about and like is, typing "code" in the git terminal to open vs code. Its very helpful and convenient.
